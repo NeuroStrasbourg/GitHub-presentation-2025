@@ -1,24 +1,23 @@
 1. Antoine
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-1207. Ayrton
-=======
+
+
+23. Zoé
 2. Enora
 
->>>>>>> f4c6e52e8acfb99ca8aaeb8e2d0393f8b6388f0e
-=======
-666. Pierre
->>>>>>> 21bfb894c9af0ef53faa6274c5f5603c7ad151d5
-=======
-666. Pierre
+1204. Ayrton
+234. Charlotte
 
 
 
 
 
+
+
+777777. Charlie
 Tsvetan
->>>>>>> 57b682e1f04f5c121cb2b37789f25a4ad05e547f
+
+
+888. Nouvelle branche dans la branche principale
 
 
 
@@ -28,5 +27,4 @@ Tsvetan
 
 
 
-
-Lucie
+Maxime
