@@ -1,2 +1,6 @@
 1. Antoine
+<<<<<<< Updated upstream
 666. Pierre
+=======
+47. Mila 
+>>>>>>> Stashed changes
